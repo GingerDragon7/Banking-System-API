@@ -68,8 +68,6 @@ Depending on the route you are trying to access, you will need different privile
 
 [MySQL](https://www.mysql.com/)
 
-## Author
-Jaume Sánchez Torres
 
 
 
